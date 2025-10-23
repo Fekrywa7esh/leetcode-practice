@@ -4,7 +4,7 @@ Daily LeetCode solutions in Java — tracking progress for software engineering 
 
 | Problem # | Title           | Language | Status     |
 |-----------|-----------------|----------|------------|
-| 001       | Two Sum         | Java     | ❌ Not Done |
+| 001       | Two Sum         | Java     | ✅ Done |
 | 002       | Reverse String  | Java     | ❌ Not Done |
 | 003       | Valid Parentheses | Java   | ❌ Not Done |
 
