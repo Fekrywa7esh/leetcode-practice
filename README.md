@@ -1,5 +1,9 @@
 # leetcode-practice
+
 Daily LeetCode solutions in Java — tracking progress for software engineering mastery
+
+---
+
 ## 📈 Progress Tracker
 
 | Problem # | Title                     | Language | Status     | Time   | Space |
