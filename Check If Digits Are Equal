@@ -10,4 +10,4 @@ class Solution {
         }
         return s.charAt(0) == s.charAt(1);
     }
-}
+}    
